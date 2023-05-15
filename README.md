@@ -1,4 +1,4 @@
-﻿```
+﻿## How to install dependencies :
+ ```
 npm install
 ```
-to init the project
