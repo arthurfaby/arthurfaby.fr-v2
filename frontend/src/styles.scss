@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+	--dark-1: #16193B;
+	--dark-2: #35478C;
+	--mid: #4E7AC7;
+	--light-1: #7FB2F0;
+	--light-2: #ADD5F7;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--mid);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--light-1);
+}
